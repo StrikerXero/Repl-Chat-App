@@ -1,0 +1,17 @@
+{
+  "name": "replchatserver",
+  "version": "0.1.0",
+  "description": "Repl Chat App Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Behlen",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "socket.io": "^4.6.1"
+  }
+}
